@@ -39,4 +39,5 @@
         android:clipToPadding="false"
         android:clipChildren="false"
         systemui:textAppearance="@style/TextAppearance.StatusBar.Clock" />
+
 </LinearLayout>
