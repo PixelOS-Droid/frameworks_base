@@ -61,6 +61,7 @@ public class GamesPropsUtils {
         propsToChange.put("MI13P", createMI13PProps());
         packagesToChange.put("MI13P", new String[]{
                 "com.levelinfinite.sgameGlobal",
+                "com.tencent.lolm",
                 "com.tencent.tmgp.sgame"
         });
 
@@ -87,7 +88,6 @@ public class GamesPropsUtils {
         packagesToChange.put("OP9P", new String[]{
                 "com.epicgames.fortnite",
                 "com.epicgames.portal",
-                "com.tencent.lolm",
                 "jp.konami.pesam"
         });
 
