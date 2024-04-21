@@ -12794,19 +12794,6 @@ public final class Settings {
          */
         public static final String FEATURE_TOUCH_HOVERING = "feature_touch_hovering";
 
-        /**
-         * Whether to show ambient instead of waking for the tap gesture
-         * @hide
-         */
-        public static final String DOZE_TAP_GESTURE_AMBIENT = "doze_tap_gesture_ambient";
-
-        /**
-         * Whether to show ambient instead of waking for the pickup gesture
-         * Do note quick pickup (device sensor) is already configured to do that
-         * @hide
-         */
-        public static final String DOZE_PICK_UP_GESTURE_AMBIENT = "doze_pick_up_gesture_ambient";
-
         /** @hide */
         public static final int PRIVATE_SPACE_AUTO_LOCK_ON_DEVICE_LOCK = 0;
         /** @hide */
